@@ -1,2 +1,2 @@
 # My Portfolio
-Link : imbickydutta.netlify.app
+Link : https://rahul-kumar-portfolio.netlify.app/
